@@ -1,4 +1,4 @@
-# 멋쟁이사자처럼 15기 WAI-ARIA 스터디
+# 멋쟁이사자처럼 웹 프론트엔드 부트캠프 15기 WAI-ARIA 스터디
 
 ![교재 커버](./WAI-ARIA-textbook/textbook-cover.png)
 > 스터디 교재 - 예제로 살펴보는 WAI-ARIA
