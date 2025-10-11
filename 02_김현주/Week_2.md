@@ -128,9 +128,9 @@ $('[role="tab"]').on('click', function(e) {
 
 ### 탭(Tab) UI - 접근성(WAI-ARIA) 기반 구현
 (1) 구조 개요
-- <ul role="tablist"> : 탭 버튼들을 담는 리스트 컨테이너
-- <li role="tab"> : 각각의 탭 항목. aria-controls로 연결된 패널(tabpanel)을 제어
-- <section role="tabpanel"> : 실제 탭 콘텐츠. aria-labelledby로 탭 버튼과 연동
+- `<ul role="tablist">` : 탭 버튼들을 담는 리스트 컨테이너
+- `<li role="tab">` : 각각의 탭 항목. aria-controls로 연결된 패널(tabpanel)을 제어
+- `<section role="tabpanel">` : 실제 탭 콘텐츠. aria-labelledby로 탭 버튼과 연동
 → HTML 구조만 봐도 탭과 패널의 관계가 명확히 연결되어 있음.
 
 (2) 스크립트 동작
